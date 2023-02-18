@@ -1,0 +1,15 @@
+.title a{
+    color: red;
+}
+header nav{
+    float: left;
+}
+
+ul li{
+    list-style-position: inside;
+    /* font-weight: bold; */
+}
+
+body {
+    background-color: #E9ECEF!important;
+}
