@@ -1,15 +1,25 @@
-.title a{
+.title a {
     color: red;
 }
-header nav{
+
+header nav {
     float: left;
 }
 
-ul li{
+ul li {
     list-style-position: inside;
     /* font-weight: bold; */
 }
 
 body {
-    background-color: #E9ECEF!important;
+    background-color: #E9ECEF !important;
+}
+
+section article h1.display-4.text-center.mt-3 {
+    color: #8525aa;
+    font-weight: 350;
+}
+
+section article p{
+    font-weight: 450;
 }
