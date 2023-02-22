@@ -1,5 +1,5 @@
 # Ignore Visual Studio Code folder
-.vscode/
+.vscode/*
 
 # Ignore log file
-log.txt
+.txt
