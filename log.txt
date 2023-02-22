@@ -5,3 +5,7 @@ dosyalar eklendi
 ana sayfa bitti
 19Sub-Pz-------------------------
 Hakkımızda bitti
+22Sub-Cr-------------------------
+hakkımızda carda alınacakmış alındı
+ürünlerimiz bitti
+isterler eklendi

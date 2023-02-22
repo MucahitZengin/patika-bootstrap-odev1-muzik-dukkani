@@ -11,13 +11,19 @@ ul li {
     /* font-weight: bold; */
 }
 
-body {
-    background-color: #E9ECEF !important;
+body, section.card{
+    background-color: #E9ECEF !important;  /*(jumbotronun rengini gizlemek icinmis. ayrica hakkimizdadaki cardı da gizlemem gerekti) 4- Arka plan rengini #E9ECEF ile değiştirin. */
 }
 
-section article h1.display-4.text-center.mt-3 {
+h1.display-4.text-center {
     color: #8525aa;
     font-weight: 350;
+}
+
+.card-text{
+    color: #8525aa;
+    font-weight: bold;
+    font-size:large;
 }
 
 section article p{
