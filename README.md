@@ -1,1 +1,3 @@
-# patika-bootstrap-odev1-muzik-dukkani
+# Bootstrap Müzik Dükkanı
+
+![index](/assets/ss.gif)
